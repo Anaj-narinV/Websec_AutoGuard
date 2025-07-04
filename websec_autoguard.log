@@ -1,0 +1,206 @@
+2025-06-27 15:27:44,000 [INFO] Starting WebSec AutoGuard...
+2025-06-27 15:27:44,043 [INFO]  Parsing forms from HTML content...
+2025-06-27 15:27:44,043 [INFO] Total forms extracted: 2
+2025-06-27 15:27:44,061 [INFO] Generating report...
+2025-06-27 15:27:44,062 [INFO] Vulnerability: XSS - Risk: High
+2025-06-27 15:27:44,062 [INFO] Vulnerability: XSS - Risk: High
+2025-06-27 15:27:44,062 [INFO] Scan completed successfully.
+2025-06-27 17:35:28,465 [INFO] Starting WebSec AutoGuard...
+2025-06-27 17:40:22,956 [INFO] Starting WebSec AutoGuard...
+2025-06-27 17:40:22,977 [INFO] Scanning URL: http://testphp.vulnweb.com
+2025-06-27 17:40:22,978 [INFO]  Parsing forms from HTML content...
+2025-06-27 17:40:22,979 [INFO] Total forms extracted: 2
+2025-06-27 17:40:22,980 [INFO] Detecting vulnerabilities...
+2025-06-27 17:40:22,996 [INFO] Generating report...
+2025-06-27 17:40:22,998 [INFO] Vulnerability: XSS - Risk: High
+2025-06-27 17:40:23,000 [INFO] Vulnerability: XSS - Risk: High
+2025-06-27 17:40:23,011 [INFO] Scan completed successfully.
+2025-06-28 17:52:58,589 [INFO] Starting WebSec AutoGuard...
+2025-06-28 17:52:58,590 [INFO] Scanning URL: http://testphp.vulnweb.com
+2025-06-28 17:52:58,590 [INFO]  Parsing forms from HTML content...
+2025-06-28 17:52:58,590 [INFO] Total forms extracted: 2
+2025-06-28 17:52:58,590 [INFO] Detecting vulnerabilities...
+2025-06-28 17:54:41,417 [INFO] Starting WebSec AutoGuard...
+2025-06-28 17:54:41,418 [INFO] Scanning URL: http://testphp.vulnweb.com
+2025-06-28 17:54:41,418 [INFO]  Parsing forms from HTML content...
+2025-06-28 17:54:41,418 [INFO] Total forms extracted: 2
+2025-06-28 17:54:41,418 [INFO] Detecting vulnerabilities...
+2025-06-28 17:54:42,170 [INFO] Scan completed successfully.
+2025-06-28 17:55:41,470 [INFO] Starting WebSec AutoGuard...
+2025-06-28 17:55:41,470 [INFO] Scanning URL: http://testphp.vulnweb.com
+2025-06-28 17:55:41,470 [INFO]  Parsing forms from HTML content...
+2025-06-28 17:55:41,471 [INFO] Total forms extracted: 2
+2025-06-28 17:55:41,471 [INFO] Detecting vulnerabilities...
+2025-06-28 17:55:41,612 [INFO] Scan completed successfully.
+2025-06-28 17:57:51,646 [INFO] Starting WebSec AutoGuard...
+2025-06-28 17:57:51,646 [INFO] Scanning URL: http://testphp.vulnweb.com
+2025-06-28 17:57:51,647 [INFO]  Parsing forms from HTML content...
+2025-06-28 17:57:51,647 [INFO] Total forms extracted: 2
+2025-06-28 17:57:51,647 [INFO] Detecting vulnerabilities...
+2025-06-28 17:57:51,804 [INFO] Scan completed successfully.
+2025-06-28 17:58:12,994 [INFO] Starting WebSec AutoGuard...
+2025-06-28 17:58:12,995 [INFO] Scanning URL: http://testphp.vulnweb.com
+2025-06-28 17:58:12,995 [INFO]  Parsing forms from HTML content...
+2025-06-28 17:58:12,996 [INFO] Total forms extracted: 2
+2025-06-28 17:58:12,996 [INFO] Detecting vulnerabilities...
+2025-06-28 17:58:13,162 [INFO] Scan completed successfully.
+2025-06-28 18:07:44,117 [INFO] Starting WebSec AutoGuard...
+2025-06-28 18:07:44,119 [INFO] Scanning URL: http://testphp.vulnweb.com
+2025-06-28 18:07:44,122 [INFO]  Parsing forms from HTML content...
+2025-06-28 18:07:44,123 [INFO] Total forms extracted: 2
+2025-06-28 18:07:44,124 [INFO] Detecting vulnerabilities...
+2025-06-28 18:07:44,276 [INFO] Scan completed successfully.
+2025-06-30 12:07:45,348 [INFO] Starting WebSec AutoGuard...
+2025-06-30 12:09:15,018 [INFO] Starting WebSec AutoGuard...
+2025-06-30 12:09:15,019 [INFO] Scanning URL: http://testphp.vulnweb.com
+2025-06-30 12:09:15,880 [INFO]  Parsing forms from HTML content...
+2025-06-30 12:09:15,882 [INFO] Total forms extracted: 2
+2025-06-30 12:09:15,882 [INFO] Detecting vulnerabilities...
+2025-06-30 12:09:16,038 [INFO] Scan completed successfully.
+2025-07-01 15:18:48,990 [INFO] Starting WebSec AutoGuard...
+2025-07-01 15:18:50,565 [WARNING] Login may have failed. Status: 404
+2025-07-01 15:18:50,565 [INFO] Scanning URL: http://testphp.vulnweb.com
+2025-07-01 15:18:51,156 [INFO]  Parsing forms from HTML content...
+2025-07-01 15:18:51,156 [INFO] Total forms extracted: 2
+2025-07-01 15:18:51,160 [INFO] Detecting vulnerabilities...
+2025-07-01 15:18:51,557 [INFO] Scan completed successfully.
+2025-07-01 15:19:11,965 [INFO] Starting WebSec AutoGuard...
+2025-07-01 15:19:12,761 [WARNING] Login may have failed. Status: 404
+2025-07-01 15:19:12,762 [INFO] Scanning URL: http://testphp.vulnweb.com
+2025-07-01 15:19:13,487 [INFO]  Parsing forms from HTML content...
+2025-07-01 15:19:13,487 [INFO] Total forms extracted: 2
+2025-07-01 15:19:13,488 [INFO] Detecting vulnerabilities...
+2025-07-01 15:19:13,544 [INFO] Scan completed successfully.
+2025-07-01 15:32:33,984 [INFO] Starting WebSec AutoGuard...
+2025-07-01 15:32:35,414 [WARNING] Login may have failed. Status: 404
+2025-07-01 15:32:35,415 [INFO] Scanning URL: http://testphp.vulnweb.com
+2025-07-01 15:32:35,810 [INFO]  Parsing forms from HTML content...
+2025-07-01 15:32:35,811 [INFO] Total forms extracted: 2
+2025-07-01 15:32:35,811 [INFO] Detecting vulnerabilities...
+2025-07-01 15:32:35,898 [INFO] Scan completed successfully.
+2025-07-02 19:02:21,303 [INFO] Starting WebSec AutoGuard...
+2025-07-02 19:02:21,304 [INFO] Scanning URL: http://testphp.vulnweb.com
+2025-07-02 19:02:22,061 [WARNING] Missing Security Header: X-Content-Type-Options
+2025-07-02 19:02:22,062 [WARNING] Missing Security Header: X-Frame-Options
+2025-07-02 19:02:22,062 [WARNING] Missing Security Header: Content-Security-Policy
+2025-07-02 19:02:22,063 [WARNING] Insecure connection: URL http://testphp.vulnweb.com uses HTTP instead of HTTPS
+2025-07-02 19:02:22,069 [WARNING] Possible CSRF issue: Form missing CSRF token.
+2025-07-02 19:02:22,069 [INFO] Total forms extracted: 1
+2025-07-02 19:02:22,070 [INFO] Detecting vulnerabilities...
+2025-07-02 19:02:22,070 [INFO] Simulated buffer overflow test with 10,000 character input.
+2025-07-02 19:02:22,410 [INFO] Scan completed successfully.
+2025-07-03 14:07:35,045 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-03 14:07:35,046 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-03 14:07:35,061 [INFO]  * Restarting with stat
+2025-07-03 14:07:35,988 [WARNING]  * Debugger is active!
+2025-07-03 14:07:35,992 [INFO]  * Debugger PIN: 105-983-340
+2025-07-03 14:21:48,739 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-03 14:21:48,740 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-03 14:21:48,742 [INFO]  * Restarting with stat
+2025-07-03 14:21:49,563 [WARNING]  * Debugger is active!
+2025-07-03 14:21:49,569 [INFO]  * Debugger PIN: 105-983-340
+2025-07-03 14:22:02,708 [INFO] 127.0.0.1 - - [03/Jul/2025 14:22:02] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-03 14:22:02,916 [INFO] 127.0.0.1 - - [03/Jul/2025 14:22:02] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-07-03 14:22:02,922 [INFO] 127.0.0.1 - - [03/Jul/2025 14:22:02] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-07-03 14:22:02,978 [INFO] 127.0.0.1 - - [03/Jul/2025 14:22:02] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=xNULeNAIcQDQpT7JU4Md HTTP/1.1" 200 -
+2025-07-03 14:22:02,978 [INFO] 127.0.0.1 - - [03/Jul/2025 14:22:02] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-07-03 14:38:14,848 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-03 14:38:14,848 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-03 14:38:14,850 [INFO]  * Restarting with stat
+2025-07-03 14:38:15,911 [WARNING]  * Debugger is active!
+2025-07-03 14:38:15,914 [INFO]  * Debugger PIN: 105-983-340
+2025-07-03 14:38:22,409 [INFO] 127.0.0.1 - - [03/Jul/2025 14:38:22] "GET / HTTP/1.1" 200 -
+2025-07-03 14:38:22,535 [INFO] 127.0.0.1 - - [03/Jul/2025 14:38:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 14:39:01,029 [INFO] Received scan request for URL: http://testphp.vulnweb.com
+2025-07-03 14:39:01,030 [INFO] Scanning URL: http://testphp.vulnweb.com
+2025-07-03 14:39:02,073 [WARNING] Missing Security Header: X-Content-Type-Options
+2025-07-03 14:39:02,073 [WARNING] Missing Security Header: X-Frame-Options
+2025-07-03 14:39:02,076 [WARNING] Missing Security Header: Content-Security-Policy
+2025-07-03 14:39:02,076 [WARNING] Insecure connection: URL http://testphp.vulnweb.com uses HTTP instead of HTTPS
+2025-07-03 14:39:02,084 [WARNING] Possible CSRF issue: Form missing CSRF token.
+2025-07-03 14:39:02,085 [INFO] Total forms extracted: 1
+2025-07-03 14:39:02,085 [INFO] Detecting vulnerabilities...
+2025-07-03 14:39:02,086 [INFO] Simulated buffer overflow test with 10,000 character input.
+2025-07-03 14:39:02,734 [INFO] 127.0.0.1 - - [03/Jul/2025 14:39:02] "[35m[1mPOST /scan HTTP/1.1[0m" 500 -
+2025-07-03 14:39:02,981 [INFO] 127.0.0.1 - - [03/Jul/2025 14:39:02] "GET /scan?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-07-03 14:39:02,992 [INFO] 127.0.0.1 - - [03/Jul/2025 14:39:02] "GET /scan?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-07-03 14:39:03,004 [INFO] 127.0.0.1 - - [03/Jul/2025 14:39:03] "GET /scan?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-07-03 14:39:03,017 [INFO] 127.0.0.1 - - [03/Jul/2025 14:39:03] "GET /scan?__debugger__=yes&cmd=resource&f=console.png&s=b6rQDObsE9QkM4cJG9iX HTTP/1.1" 200 -
+2025-07-03 14:39:31,905 [INFO] 127.0.0.1 - - [03/Jul/2025 14:39:31] "GET / HTTP/1.1" 200 -
+2025-07-03 14:39:32,103 [INFO] 127.0.0.1 - - [03/Jul/2025 14:39:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 14:41:19,788 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-03 14:41:19,788 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-03 14:41:19,790 [INFO]  * Restarting with stat
+2025-07-03 14:41:20,591 [WARNING]  * Debugger is active!
+2025-07-03 14:41:20,596 [INFO]  * Debugger PIN: 105-983-340
+2025-07-03 14:41:26,697 [INFO] 127.0.0.1 - - [03/Jul/2025 14:41:26] "GET / HTTP/1.1" 200 -
+2025-07-03 14:41:57,651 [INFO] Received scan request for URL: http://testphp.vulnweb.com
+2025-07-03 14:41:57,653 [INFO] Scanning URL: http://testphp.vulnweb.com
+2025-07-03 14:41:58,395 [WARNING] Missing Security Header: X-Content-Type-Options
+2025-07-03 14:41:58,396 [WARNING] Missing Security Header: X-Frame-Options
+2025-07-03 14:41:58,396 [WARNING] Missing Security Header: Content-Security-Policy
+2025-07-03 14:41:58,397 [WARNING] Insecure connection: URL http://testphp.vulnweb.com uses HTTP instead of HTTPS
+2025-07-03 14:41:58,406 [WARNING] Possible CSRF issue: Form missing CSRF token.
+2025-07-03 14:41:58,407 [INFO] Total forms extracted: 1
+2025-07-03 14:41:58,407 [INFO] Detecting vulnerabilities...
+2025-07-03 14:41:58,411 [INFO] Simulated buffer overflow test with 10,000 character input.
+2025-07-03 14:41:58,573 [INFO] 127.0.0.1 - - [03/Jul/2025 14:41:58] "[35m[1mPOST /scan HTTP/1.1[0m" 500 -
+2025-07-03 14:41:58,807 [INFO] 127.0.0.1 - - [03/Jul/2025 14:41:58] "[36mGET /scan?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-07-03 14:41:58,814 [INFO] 127.0.0.1 - - [03/Jul/2025 14:41:58] "[36mGET /scan?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-07-03 14:41:58,835 [INFO] 127.0.0.1 - - [03/Jul/2025 14:41:58] "GET /scan?__debugger__=yes&cmd=resource&f=console.png&s=zvNDayPrNdQTdjY3rkSS HTTP/1.1" 200 -
+2025-07-03 14:42:30,556 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-03 14:42:30,563 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-03 14:42:30,566 [INFO]  * Restarting with stat
+2025-07-03 14:42:31,397 [WARNING]  * Debugger is active!
+2025-07-03 14:42:31,402 [INFO]  * Debugger PIN: 105-983-340
+2025-07-03 14:42:35,371 [INFO] 127.0.0.1 - - [03/Jul/2025 14:42:35] "GET / HTTP/1.1" 200 -
+2025-07-03 14:42:48,107 [INFO] Received scan request for URL: http://testphp.vulnweb.com
+2025-07-03 14:42:48,115 [INFO] Scanning URL: http://testphp.vulnweb.com
+2025-07-03 14:42:48,829 [WARNING] Missing Security Header: X-Content-Type-Options
+2025-07-03 14:42:48,830 [WARNING] Missing Security Header: X-Frame-Options
+2025-07-03 14:42:48,830 [WARNING] Missing Security Header: Content-Security-Policy
+2025-07-03 14:42:48,830 [WARNING] Insecure connection: URL http://testphp.vulnweb.com uses HTTP instead of HTTPS
+2025-07-03 14:42:48,841 [WARNING] Possible CSRF issue: Form missing CSRF token.
+2025-07-03 14:42:48,845 [INFO] Total forms extracted: 1
+2025-07-03 14:42:48,846 [INFO] Detecting vulnerabilities...
+2025-07-03 14:42:48,847 [INFO] Simulated buffer overflow test with 10,000 character input.
+2025-07-03 14:42:48,946 [INFO] 127.0.0.1 - - [03/Jul/2025 14:42:48] "POST /scan HTTP/1.1" 200 -
+2025-07-03 14:52:21,361 [INFO] Received scan request for URL: http://testphp.vulnweb.com
+2025-07-03 14:52:21,362 [INFO] Scanning URL: http://testphp.vulnweb.com
+2025-07-03 14:52:22,034 [WARNING] Missing Security Header: X-Content-Type-Options
+2025-07-03 14:52:22,034 [WARNING] Missing Security Header: X-Frame-Options
+2025-07-03 14:52:22,034 [WARNING] Missing Security Header: Content-Security-Policy
+2025-07-03 14:52:22,034 [WARNING] Insecure connection: URL http://testphp.vulnweb.com uses HTTP instead of HTTPS
+2025-07-03 14:52:22,038 [WARNING] Possible CSRF issue: Form missing CSRF token.
+2025-07-03 14:52:22,087 [INFO] Total forms extracted: 1
+2025-07-03 14:52:22,094 [INFO] Detecting vulnerabilities...
+2025-07-03 14:52:22,102 [INFO] Simulated buffer overflow test with 10,000 character input.
+2025-07-03 14:52:22,119 [INFO] 127.0.0.1 - - [03/Jul/2025 14:52:22] "POST /scan HTTP/1.1" 200 -
+2025-07-03 14:57:41,663 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-03 14:57:41,664 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-03 14:57:41,665 [INFO]  * Restarting with stat
+2025-07-03 14:57:42,535 [WARNING]  * Debugger is active!
+2025-07-03 14:57:42,540 [INFO]  * Debugger PIN: 105-983-340
+2025-07-03 14:57:47,899 [INFO] 127.0.0.1 - - [03/Jul/2025 14:57:47] "GET / HTTP/1.1" 200 -
+2025-07-03 14:58:45,437 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-03 14:58:45,437 [INFO] [33mPress CTRL+C to quit[0m
+2025-07-03 14:58:45,439 [INFO]  * Restarting with stat
+2025-07-03 14:58:46,345 [WARNING]  * Debugger is active!
+2025-07-03 14:58:46,350 [INFO]  * Debugger PIN: 105-983-340
+2025-07-03 14:58:48,662 [INFO] 127.0.0.1 - - [03/Jul/2025 14:58:48] "GET / HTTP/1.1" 200 -
+2025-07-03 15:01:23,693 [INFO] Received scan request for URL: http://testphp.vulnweb.com
+2025-07-03 15:01:23,693 [INFO] Scanning URL: http://testphp.vulnweb.com
+2025-07-03 15:01:24,354 [WARNING] Missing Security Header: X-Content-Type-Options
+2025-07-03 15:01:24,355 [WARNING] Missing Security Header: X-Frame-Options
+2025-07-03 15:01:24,355 [WARNING] Missing Security Header: Content-Security-Policy
+2025-07-03 15:01:24,355 [WARNING] Insecure connection: URL http://testphp.vulnweb.com uses HTTP instead of HTTPS
+2025-07-03 15:01:24,361 [WARNING] Possible CSRF issue: Form missing CSRF token.
+2025-07-03 15:01:24,361 [INFO] Total forms extracted: 1
+2025-07-03 15:01:24,416 [INFO] 127.0.0.1 - - [03/Jul/2025 15:01:24] "POST /scan HTTP/1.1" 200 -
