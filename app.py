@@ -41,8 +41,10 @@ def scan():
     if scan_xss:
         findings.extend(detector.detect(forms))
 
-    report_filename = "WebUI_Report.pdf"
-    reporter.generate(findings, filename=report_filename)
+   
+    report_filename = "WebUI_Report.pdf"  # For display
+    report_path = "static/WebUI_Report.pdf"  # For saving file
+    reporter.generate(findings, filename=report_path)
 
     return render_template('result.html', url=url, findings=findings, report=report_filename)
 
