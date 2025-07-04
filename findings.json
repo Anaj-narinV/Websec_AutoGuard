@@ -1,0 +1,8 @@
+[
+  {
+    "url": "http://testphp.vulnweb.com/admin",
+    "vulnerability": "Sensitive admin panel found",
+    "payload": "N/A",
+    "risk": "High"
+  }
+]
