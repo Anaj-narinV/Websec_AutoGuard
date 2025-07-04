@@ -1,0 +1,9 @@
+{
+  "url": "http://testphp.vulnweb.com",
+  "scan_xss": true,
+  "scan_sql": false,
+  "output": "WebSec_Report.pdf",
+  "login_url": "http://testphp.vulnweb.com/login",
+  "username": "admin",
+  "password": "admin"
+}
